@@ -7,6 +7,7 @@
 // then add device to DIYhue dashboard via new static IP address.
 // Add DIYhue "hub" to Hue Official App,  setup Entertainment Zone to pair light to TV/Monitor 
 // for use with Hue Sync Box, Hue Essentials Android/AndroidTV app, or Hue Sync PC app.
+// Similar to LCX002 offical product hue play gradient lightstrip (55-65in TV kit)
 
 
 #include <LittleFS.h>
